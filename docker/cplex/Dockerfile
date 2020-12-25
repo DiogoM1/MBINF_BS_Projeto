@@ -34,11 +34,13 @@ RUN rm -r /home/cplex/cplex_installation/
 
 # install python Metabolic Engineering tooling and jupyter
 RUN pip install --upgrade pip && \
+    pip install jupyter && \
+    pip install numpy && \
     pip install reframed && \
+    pip install cobra && \
     pip install cobamp && \
     pip install escher && \
-    pip install mewpy && \
-    pip install jupyter
+    pip install mewpy
 
 # set correct non-root user
 USER cplex
