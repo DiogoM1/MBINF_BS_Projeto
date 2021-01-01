@@ -7,4 +7,4 @@
 *.iml
 out
 gen
-!/docker/cplex/cplex_studio1210.linux-x86-64.bin
+/docker/cplex/cplex_studio1210.linux-x86-64.bin
