@@ -40,7 +40,8 @@ RUN pip install --upgrade pip && \
     pip install cobra && \
     pip install cobamp && \
     pip install escher && \
-    pip install mewpy
+    pip install mewpy && \
+    pip install biopython
 
 # set correct non-root user
 USER cplex
