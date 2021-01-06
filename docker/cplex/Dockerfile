@@ -36,12 +36,14 @@ RUN rm -r /home/cplex/cplex_installation/
 RUN pip install --upgrade pip && \
     pip install jupyter && \
     pip install numpy && \
+    pip install framed && \
     pip install reframed && \
     pip install cobra && \
     pip install cobamp && \
     pip install escher && \
     pip install mewpy && \
     pip install biopython
+
 
 # set correct non-root user
 USER cplex
