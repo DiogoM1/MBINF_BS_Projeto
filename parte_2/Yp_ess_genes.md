@@ -48,7 +48,7 @@ YPO1430
 
 # gpsA
 
-# Warning: This is an Human target aswell
+Warning: This is an Human target aswell
 
 YPO0068
 
@@ -56,7 +56,7 @@ NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
 
 # fabG
 
-# Warning: This is an Human target aswell
+Warning: This is an Human target aswell
 
 YPO1599
 
@@ -94,7 +94,7 @@ glucosamine--fructose-6-phosphate aminotransferase
 
 # acpP
 
-# Warning: This is an Human target aswell
+Warning: This is an Human target aswell
 
 YPO1600
 
@@ -120,7 +120,7 @@ glucose-1-phosphate adenylyltransferase
 
 # accA
 
-# Warning: This is an Human target aswell
+Warning: This is an Human target aswell
 
 YPO1060
 
@@ -140,7 +140,7 @@ acetyl-CoA carboxylase biotin carboxylase subunit
 
 # accB
 
-# Warning: This is an Human target aswell
+Warning: This is an Human target aswell
 
 YPO3659, fabE
 
@@ -214,7 +214,7 @@ GTP cyclohydrolase I
 
 # ribA
 
-# Warning: This is an Human target aswell
+Warning: This is an Human target aswell
 
 YPO2222
 
@@ -252,7 +252,7 @@ para-aminobenzoate synthase component II
 
 # adk
 
-# Warning: This is an Human target aswell
+Warning: This is an Human target aswell
 
 YPO3118, dnaW, plsA
 
@@ -284,7 +284,7 @@ imidazole glycerol-phosphate dehydratase/histidinol phosphatase
 
 # purB
 
-# Warning: This is an Human target aswell
+Warning: This is an Human target aswell
 
 YPO1636
 
@@ -298,7 +298,7 @@ YPO3400
 
 # purA
 
-# Warning: This is an Human target aswell
+Warning: This is an Human target aswell
 
 YPO0378
 
@@ -342,7 +342,7 @@ bifunctional indole-3-glycerol phosphate synthase/phosphoribosylanthranilate iso
 
 # parF
 
-# Warning: This is an Human target aswell
+Warning: This is an Human target aswell
 
 YPO0672, plsC
 
@@ -350,7 +350,7 @@ acyltransferase
 
 # purH
 
-# Warning: This is an Human target aswell
+Warning: This is an Human target aswell
 
 YPO3728
 
@@ -388,7 +388,7 @@ carbamoyl phosphate synthase small subunit
 
 # carB
 
-# Warning: This is an Human target aswell
+Warning: This is an Human target aswell
 
 YPO0482, pyrA
 
@@ -444,7 +444,7 @@ chorismate synthase
 
 # cls
 
-# Warning: This is an Human target aswell
+Warning: This is an Human target aswell
 
 YPO2188, nov
 
@@ -482,7 +482,7 @@ malate synthase
 
 # fabD
 
-# Warning: This is an Human target aswell
+Warning: This is an Human target aswell
 
 YPO1598, tfpA
 
@@ -490,7 +490,7 @@ malonyl CoA-ACP transacylase
 
 # ribB
 
-# Warning: This is an Human target aswell
+Warning: This is an Human target aswell
 
 YPO0658
 
@@ -504,7 +504,7 @@ phospho-2-dehydro-3-deoxyheptonate aldolase
 
 # gmk
 
-# Warning: This is an Human target aswell
+Warning: This is an Human target aswell
 
 YPO0040, spoR
 
@@ -576,7 +576,7 @@ YPO0117
 
 5,10-methylenetetrahydrofolate reductase
 
-# folP ---
+# folP
 
 YPO3501
 
@@ -662,7 +662,7 @@ thymidylate synthase
 
 # trpA
 
-# Warning: This is an Human target aswell
+Warning: This is an Human target aswell
 
 YPO2203
 
@@ -736,7 +736,7 @@ phosphoglucosamine mutase
 
 # pgm
 
-# Warning: This is an Human target aswell
+Warning: This is an Human target aswell
 
 YPO2686
 
@@ -744,7 +744,7 @@ phosphoglucomutase
 
 # nadE
 
-# Warning: This is an Human target aswell
+Warning: This is an Human target aswell
 
 YPO2912
 
@@ -800,7 +800,7 @@ hypothetical protein
 
 # coaA
 
-# Warning: This is an Human target aswell
+Warning: This is an Human target aswell
 
 YPO3758, panK, rts
 
@@ -856,7 +856,7 @@ phosphoribosylaminoimidazole-succinocarboxamide synthase
 
 # purL
 
-# Warning: This is an Human target aswell
+Warning: This is an Human target aswell
 
 YPO2921
 
@@ -870,7 +870,7 @@ YPO1544
 
 # prsA
 
-# Warning: This is an Human target aswell
+Warning: This is an Human target aswell
 
 YPO2013
 
@@ -884,7 +884,7 @@ YPO1390
 
 # psd
 
-# Warning: This is an Human target aswell
+Warning: This is an Human target aswell
 
 YPO0364
 
@@ -892,7 +892,7 @@ phosphatidylserine decarboxylase
 
 # pssA
 
-# Warning: This is an Human target aswell
+Warning: This is an Human target aswell
 
 YPO3273
 
